@@ -191,3 +191,25 @@
   width:300px;
   word-wrap:break-word;
 }
+#u51_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:71px;
+  height:26px;
+}
+#u51 {
+  position:absolute;
+  left:275px;
+  top:20px;
+  width:70px;
+  height:25px;
+  color:#666666;
+}
+#u52 {
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:66px;
+  word-wrap:break-word;
+}
